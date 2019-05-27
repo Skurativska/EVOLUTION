@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1558977350 source:c:\users\Артем.Артем-ПК\documents\Учебники\c++\evolution_skurativska\evolution_skurativska.cpp
+	"Evolution_Skurativska.h"
+	<random>
+	<ctime>
+	<iostream>
+	<fstream>
+	<cstdio>
+
+1558977350 c:\users\Артем.Артем-ПК\documents\Учебники\c++\evolution_skurativska\evolution_skurativska.h
+	<vector>
+	<cstdlib>
+
+1558975108 source:c:\users\Артем.Артем-ПК\documents\Учебники\c++\evolution_skurativska\evolution_skurativska_test.cpp
+	<iostream>
+	"Evolution_Skurativska.h"
+	<string>
+	<fstream>
+
